@@ -1,0 +1,1 @@
+{"meteo": "pioggia leggera", "tempAttuale": 16, "citta": "dalmine", "registrazioni": [19, 21, 23, 20, 18]}
